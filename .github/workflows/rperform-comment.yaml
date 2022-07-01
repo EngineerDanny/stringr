@@ -19,3 +19,4 @@ jobs:
       - uses: EngineerDanny/Rperform/actions/comment@github-actions
         with: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.number }}
