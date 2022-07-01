@@ -2,7 +2,7 @@
 # setwd("./")
 Rperform::plot_metrics(
     test_path = "inst/tests/test-join.r",
-    metric = "time", num_commits = 10, save_data = FALSE,
-    save_plots = FALSE
+    metric = "time", num_commits = 10, save_data = TRUE,
+    save_plots = TRUE
 )
 # print("It is running the script")
