@@ -2,5 +2,5 @@
 # setwd("./")
  Rperform::mem_compare(
     test_path = "inst/tests/test-dup.r",
-    num_commits = 2, save_data = TRUE,
+    num_commits = 2, save_data = TRUE
  )
