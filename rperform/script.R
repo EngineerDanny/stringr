@@ -1,8 +1,7 @@
 # the script should be written here to benchmark
 # setwd("./")
-Rperform::plot_metrics(
-    test_path = "inst/tests/test-join.r",
-    metric = "memory", num_commits = 5, save_data = TRUE,
-    save_plots = TRUE
-)
+ Rperform::mem_compare(
+    test_path = "inst/tests/test-dup.r",
+    num_commits = 2, save_data = TRUE,
+ )
 # print("It is running the script")
