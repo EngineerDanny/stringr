@@ -1,0 +1,28 @@
+# the script should be written here to benchmark
+# setwd("./")
+  Rperform::plot_branchmetrics(
+   test_path = "inst/tests/test-check.r",
+   metric = "time",
+   branch1 = "rperform_test",
+   branch2 = "master",
+   save_data = T,
+   save_plots = F
+ )
+
+ Rperform::plot_metrics(
+     test_path = "inst/tests/test-join.r",
+     metric = "time", num_commits = 5, save_data = TRUE,
+     save_plots = TRUE
+ )
+
+ Rperform::plot_metrics(
+     test_path = "inst/tests/test-join.r",
+     metric = "memory", num_commits = 5, save_data = TRUE,
+     save_plots = TRUE
+ )
+
+ Rperform::time_compare(
+    test_path = "inst/tests/test-dup.r",
+    num_commits = 2,
+    save_data = TRUE
+ )
