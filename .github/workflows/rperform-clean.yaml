@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - run: |
-        git rm -r --cached folder_name
         git filter-branch -f --prune-empty --index-filter "git rm -r --cached --ignore-unmatch ./rperform/results" HEAD
         git commit -m "Clean up Rperform"
         git push origin HEAD:$GITHUB_BASE_REF
