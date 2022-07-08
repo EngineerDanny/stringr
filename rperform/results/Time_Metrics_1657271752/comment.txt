@@ -1,3 +1,4 @@
+The table below represents the test results generated after running `test_function` function on this PR branch
 <!-- html table generated in R 4.2.0 by xtable 1.8-4 package -->
 <!-- Fri Jul  8 09:15:58 2022 -->
 <table border=1>
@@ -48,3 +49,5 @@
   <tr> <td align="right"> 44 </td> <td> test-join.r </td> <td> runtime (in seconds) </td> <td> pass </td> <td align="right"> 0.03 </td> <td> Benchmarking re </td> <td> 82e524a062c4b365e7e1c1ed41a6de73fa147efd </td> <td align="right"> 1657221065.00 </td> </tr>
   <tr> <td align="right"> 45 </td> <td> test-join.r </td> <td> runtime (in seconds) </td> <td> pass </td> <td align="right"> 0.03 </td> <td> Benchmarking re </td> <td> 82e524a062c4b365e7e1c1ed41a6de73fa147efd </td> <td align="right"> 1657221065.00 </td> </tr>
    </table>
+
+Further explanation regarding interpretation and methodology can be found in the [documentation](https://github.com/analyticalmonk/Rperform#readme).
