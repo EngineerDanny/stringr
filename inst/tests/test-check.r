@@ -19,4 +19,3 @@ test_that("error when string and pattern lengths incompatible", {
   expect_that(check_pattern(c("a", "b"), c("a", "b", "c")), 
     throws_error("not compatible"))
 })
-
