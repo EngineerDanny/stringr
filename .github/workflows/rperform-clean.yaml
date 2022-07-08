@@ -1,3 +1,5 @@
+name: Clean Repository
+
 on:
   pull_request:
     types:
