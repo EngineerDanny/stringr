@@ -2,10 +2,13 @@
 # emojis like :tada:.
 
 glue::glue(
-    "The table below represents the test results generated",
-    " after running `",
-    test_function,
-    "` function",
-    " on this PR branch",
-    "\n"
+  "The table below represents the test results generated",
+  " after running `",
+  test_function,
+  "` function",
+  " on this PR branch",
+  "\n",
+  "\n <br/>",
+  image_url
 )
+
