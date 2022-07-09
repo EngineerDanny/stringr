@@ -8,7 +8,7 @@ glue::glue(
   "` function",
   " on this PR branch",
   "\n",
-  "\n",
+  "\n <br/>",
   image_url
 )
 
