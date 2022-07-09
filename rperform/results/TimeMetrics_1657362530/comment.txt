@@ -1,0 +1,5 @@
+The table below represents the test results generated after running `test_function` function on this PR branch
+
+![image](https://raw.githubusercontent.com/EngineerDanny/stringr//rperform/results/TimeMetrics_1657362530/test_image.png)
+
+Further explanation regarding interpretation and methodology can be found in the [documentation](https://github.com/analyticalmonk/Rperform#readme).
