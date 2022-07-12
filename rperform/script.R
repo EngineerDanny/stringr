@@ -12,8 +12,8 @@
     metric = "memory", 
     branch1 = "rperform_test", 
     branch2 = "master", 
-    save_data = F, 
-    save_plots = F
+    save_data = T, 
+    save_plots = T
  )
 
  
