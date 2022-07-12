@@ -8,11 +8,11 @@
 #  )
 
  Rperform::plot_branchmetrics(
-    test_path = "inst/tests/test-join.r",
-    metric = "memory",
-    branch1 = "rperform_test",
-    branch2 = "master",
-    save_data = F,
+    test_path = "inst/tests/test-interp.r", 
+    metric = "memory", 
+    branch1 = "rperform_test", 
+    branch2 = "master", 
+    save_data = F, 
     save_plots = F
  )
 
