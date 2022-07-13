@@ -1,0 +1,46 @@
+"";"test_name";"metric_name";"status";"metric_val";"message";"sha";"date_time"
+"1";"basic case works";"runtime (in seconds)";"pass";0,0377154;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"2";"basic case works";"runtime (in seconds)";"pass";0,0372387;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"3";"basic case works";"runtime (in seconds)";"pass";0,0414099;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"4";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0376422;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"5";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0381142;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"6";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0412938;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"7";"test-join.r";"runtime (in seconds)";"pass";0,0312745;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"8";"test-join.r";"runtime (in seconds)";"pass";0,0213938;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"9";"test-join.r";"runtime (in seconds)";"pass";0,0218975;"Merge 9c61ba22e";"209bf09ebdbe2e3bf7db8af7187d1ae37e81b834";2022-07-13 18:40:46
+"10";"basic case works";"runtime (in seconds)";"pass";0,0379244;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"11";"basic case works";"runtime (in seconds)";"pass";0,0382874;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"12";"basic case works";"runtime (in seconds)";"pass";0,0413432;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"13";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0378181;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"14";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0372182;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"15";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0401556;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"16";"test-join.r";"runtime (in seconds)";"pass";0,0214982;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"17";"test-join.r";"runtime (in seconds)";"pass";0,0207396;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"18";"test-join.r";"runtime (in seconds)";"pass";0,0207873;"update header";"9c61ba22e0f1fb5071ef9ee3fc0c4d7498707818";2022-07-13 18:40:33
+"19";"basic case works";"runtime (in seconds)";"pass";0,0377402;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"20";"basic case works";"runtime (in seconds)";"pass";0,037334;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"21";"basic case works";"runtime (in seconds)";"pass";0,0412694;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"22";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0378822;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"23";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0384355;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"24";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0415679;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"25";"test-join.r";"runtime (in seconds)";"pass";0,0215489;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"26";"test-join.r";"runtime (in seconds)";"pass";0,0209776;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"27";"test-join.r";"runtime (in seconds)";"pass";0,0218091;"update script";"4e0a72689491fc6a33f42d0b13caa20f8ec903e3";2022-07-13 04:02:17
+"28";"basic case works";"runtime (in seconds)";"pass";0,0377711;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"29";"basic case works";"runtime (in seconds)";"pass";0,038291;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"30";"basic case works";"runtime (in seconds)";"pass";0,0414298;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"31";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0375798;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"32";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0370053;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"33";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0399135;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"34";"test-join.r";"runtime (in seconds)";"pass";0,0213441;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"35";"test-join.r";"runtime (in seconds)";"pass";0,0206808;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"36";"test-join.r";"runtime (in seconds)";"pass";0,0208223;"update script";"526aa521cd0ef541601813dc64125f762f141ad9";2022-07-12 15:43:50
+"37";"basic case works";"runtime (in seconds)";"pass";0,0377893;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
+"38";"basic case works";"runtime (in seconds)";"pass";0,0372075;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
+"39";"basic case works";"runtime (in seconds)";"pass";0,0414032;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
+"40";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0374563;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
+"41";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0383785;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
+"42";"zero length vectors dropped";"runtime (in seconds)";"pass";0,0415206;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
+"43";"test-join.r";"runtime (in seconds)";"pass";0,0218371;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
+"44";"test-join.r";"runtime (in seconds)";"pass";0,021081;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
+"45";"test-join.r";"runtime (in seconds)";"pass";0,0218747;"test script wit";"6fe3edab4b7713748911a0bea3804cb335f7430d";2022-07-12 15:38:30
