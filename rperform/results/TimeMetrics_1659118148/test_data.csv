@@ -1,0 +1,91 @@
+"","test_name","metric_name","status","metric_val","message","sha","date_time"
+"1","basic case works","runtime (in seconds)","pass",0.015790371,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"2","basic case works","runtime (in seconds)","pass",0.015454294,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"3","basic case works","runtime (in seconds)","pass",0.015432318,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"4","zero length vectors dropped","runtime (in seconds)","pass",0.015800129,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"5","zero length vectors dropped","runtime (in seconds)","pass",0.015211656,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"6","zero length vectors dropped","runtime (in seconds)","pass",0.015251139,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"7","test-join.r","runtime (in seconds)","pass",0.009162352,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"8","test-join.r","runtime (in seconds)","pass",0.008539849,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"9","test-join.r","runtime (in seconds)","pass",0.008492125,"Merge branch 'd","3916260686c3c7f442522e9e5ad3297e06a999f2",2022-07-09 11:10:13
+"10","basic case works","runtime (in seconds)","pass",0.017686621,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"11","basic case works","runtime (in seconds)","pass",0.016703236,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"12","basic case works","runtime (in seconds)","pass",0.016741571,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"13","zero length vectors dropped","runtime (in seconds)","pass",0.017703759,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"14","zero length vectors dropped","runtime (in seconds)","pass",0.017101838,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"15","zero length vectors dropped","runtime (in seconds)","pass",0.016765679,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"16","test-join.r","runtime (in seconds)","pass",0.010463528,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"17","test-join.r","runtime (in seconds)","pass",0.0103484,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"18","test-join.r","runtime (in seconds)","pass",0.009320325,"update header","ba85163f1885af44f56a9acebd0cb90194a7fc40",2022-07-09 11:09:51
+"19","basic case works","runtime (in seconds)","pass",0.061995157,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"20","basic case works","runtime (in seconds)","pass",0.017997114,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"21","basic case works","runtime (in seconds)","pass",0.017507779,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"22","zero length vectors dropped","runtime (in seconds)","pass",0.016035592,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"23","zero length vectors dropped","runtime (in seconds)","pass",0.015385168,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"24","zero length vectors dropped","runtime (in seconds)","pass",0.01537377,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"25","test-join.r","runtime (in seconds)","pass",0.009164033,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"26","test-join.r","runtime (in seconds)","pass",0.008415127,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"27","test-join.r","runtime (in seconds)","pass",0.008434725,"Benchmarking re","84c51ddc44a31603f406b037cadd6449caff1dbf",2022-07-09 10:58:05
+"28","basic case works","runtime (in seconds)","pass",0.01588053,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"29","basic case works","runtime (in seconds)","pass",0.015275903,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"30","basic case works","runtime (in seconds)","pass",0.01543035,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"31","zero length vectors dropped","runtime (in seconds)","pass",0.016077371,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"32","zero length vectors dropped","runtime (in seconds)","pass",0.015362331,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"33","zero length vectors dropped","runtime (in seconds)","pass",0.015401609,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"34","test-join.r","runtime (in seconds)","pass",0.009249641,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"35","test-join.r","runtime (in seconds)","pass",0.008571337,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"36","test-join.r","runtime (in seconds)","pass",0.008497906,"Merge 404771730","9ae42ae1daa23b6112d72417f7368f97fe123ec7",2022-07-09 10:55:39
+"37","basic case works","runtime (in seconds)","pass",0.016033296,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"38","basic case works","runtime (in seconds)","pass",0.015355197,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"39","basic case works","runtime (in seconds)","pass",0.015314484,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"40","zero length vectors dropped","runtime (in seconds)","pass",0.02168941,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"41","zero length vectors dropped","runtime (in seconds)","pass",0.018002198,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"42","zero length vectors dropped","runtime (in seconds)","pass",0.017570058,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"43","test-join.r","runtime (in seconds)","pass",0.00916022,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"44","test-join.r","runtime (in seconds)","pass",0.008476873,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"45","test-join.r","runtime (in seconds)","pass",0.008478554,"Merge branch 'd","404771730558b587d0aa0cb4a805d739707ad410",2022-07-09 10:55:21
+"46","basic case works","runtime (in seconds)","pass",0.015808616,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"47","basic case works","runtime (in seconds)","pass",0.015387054,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"48","basic case works","runtime (in seconds)","pass",0.015262373,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"49","zero length vectors dropped","runtime (in seconds)","pass",0.01578459,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"50","zero length vectors dropped","runtime (in seconds)","pass",0.015190787,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"51","zero length vectors dropped","runtime (in seconds)","pass",0.015215838,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"52","test-join.r","runtime (in seconds)","pass",0.009241359,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"53","test-join.r","runtime (in seconds)","pass",0.008583514,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"54","test-join.r","runtime (in seconds)","pass",0.00853907,"update header","b82ae39bd6b1c8ffa4cf3b9a032ae12bfa5fbf64",2022-07-09 10:55:03
+"55","basic case works","runtime (in seconds)","pass",0.01599205,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"56","basic case works","runtime (in seconds)","pass",0.015435311,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"57","basic case works","runtime (in seconds)","pass",0.015474507,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"58","zero length vectors dropped","runtime (in seconds)","pass",0.05673867,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"59","zero length vectors dropped","runtime (in seconds)","pass",0.017992235,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"60","zero length vectors dropped","runtime (in seconds)","pass",0.017559275,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"61","test-join.r","runtime (in seconds)","pass",0.009200974,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"62","test-join.r","runtime (in seconds)","pass",0.008519513,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"63","test-join.r","runtime (in seconds)","pass",0.008663218,"Benchmarking re","2a2b35f6a9561711f96fd864b61d77433b733acb",2022-07-09 10:28:58
+"64","basic case works","runtime (in seconds)","pass",0.016078929,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"65","basic case works","runtime (in seconds)","pass",0.015340847,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"66","basic case works","runtime (in seconds)","pass",0.015483363,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"67","zero length vectors dropped","runtime (in seconds)","pass",0.015813864,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"68","zero length vectors dropped","runtime (in seconds)","pass",0.015188901,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"69","zero length vectors dropped","runtime (in seconds)","pass",0.015317354,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"70","test-join.r","runtime (in seconds)","pass",0.009304622,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"71","test-join.r","runtime (in seconds)","pass",0.008584662,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"72","test-join.r","runtime (in seconds)","pass",0.008470231,"Merge 2b7e4a07e","8bc60d59d87878a7bb2570b49a41f7e1a0d97cbc",2022-07-09 10:25:14
+"73","basic case works","runtime (in seconds)","pass",0.016001562,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"74","basic case works","runtime (in seconds)","pass",0.015210672,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"75","basic case works","runtime (in seconds)","pass",0.015275042,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"76","zero length vectors dropped","runtime (in seconds)","pass",0.015842236,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"77","zero length vectors dropped","runtime (in seconds)","pass",0.015426291,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"78","zero length vectors dropped","runtime (in seconds)","pass",0.015165695,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"79","test-join.r","runtime (in seconds)","pass",0.00941565,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"80","test-join.r","runtime (in seconds)","pass",0.022161443,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"81","test-join.r","runtime (in seconds)","pass",0.009540946,"update header.R","2b7e4a07e2710f334cd46a7af8af7f85269cdbf4",2022-07-09 10:25:07
+"82","basic case works","runtime (in seconds)","pass",0.016631404,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
+"83","basic case works","runtime (in seconds)","pass",0.01616753,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
+"84","basic case works","runtime (in seconds)","pass",0.016192868,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
+"85","zero length vectors dropped","runtime (in seconds)","pass",0.016287742,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
+"86","zero length vectors dropped","runtime (in seconds)","pass",0.015452162,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
+"87","zero length vectors dropped","runtime (in seconds)","pass",0.015466717,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
+"88","test-join.r","runtime (in seconds)","pass",0.009186993,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
+"89","test-join.r","runtime (in seconds)","pass",0.008443335,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
+"90","test-join.r","runtime (in seconds)","pass",0.008603809,"Merge branch 'd","62057dfc01b3108c8ed937a278755575a241caff",2022-07-09 09:30:46
