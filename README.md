@@ -6,5 +6,4 @@ difference is that when you use `str_match_all(text, perl(regex))` or
 subgroups will be named if `regex` is a named capture regular
 expression. It also takes advantage of the new fast C code available
 starting from R-2.14.
-
 http://sugiyama-www.cs.titech.ac.jp/~toby/papers/2011-08-16-directlabels-and-regular-expressions-for-useR-2011/2011-useR-named-capture-regexp.pdf
