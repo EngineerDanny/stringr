@@ -3,7 +3,7 @@
  
  Rperform::plot_metrics(
      test_path = "inst/tests/test-join.r",
-     metric = "time", num_commits = 15, save_data = TRUE,
+     metric = "time", num_commits = 35, save_data = TRUE,
      save_plots = TRUE
  )
 
