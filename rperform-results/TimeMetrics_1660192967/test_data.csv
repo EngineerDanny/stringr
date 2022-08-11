@@ -1,0 +1,46 @@
+"","test_name","metric_name","status","metric_val","message","sha","date_time"
+"1","basic case works","runtime (in seconds)","pass",0.0419958,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"2","basic case works","runtime (in seconds)","pass",0.0414366,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"3","basic case works","runtime (in seconds)","pass",0.0454017,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"4","zero length vectors dropped","runtime (in seconds)","pass",0.0418556,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"5","zero length vectors dropped","runtime (in seconds)","pass",0.0399246,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"6","zero length vectors dropped","runtime (in seconds)","pass",0.0410844,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"7","test-join.r","runtime (in seconds)","pass",0.0355183,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"8","test-join.r","runtime (in seconds)","pass",0.0233879,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"9","test-join.r","runtime (in seconds)","pass",0.0290861,"Merge c5c5ecf29","3ee61710b927f6339641e60ff0e19c825d702614",2022-08-11 03:31:25
+"10","basic case works","runtime (in seconds)","pass",0.0439962,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"11","basic case works","runtime (in seconds)","pass",0.0414024,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"12","basic case works","runtime (in seconds)","pass",0.0420447,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"13","zero length vectors dropped","runtime (in seconds)","pass",0.0436193,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"14","zero length vectors dropped","runtime (in seconds)","pass",0.0415085,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"15","zero length vectors dropped","runtime (in seconds)","pass",0.0416819,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"16","test-join.r","runtime (in seconds)","pass",0.0265138,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"17","test-join.r","runtime (in seconds)","pass",0.0244274,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"18","test-join.r","runtime (in seconds)","pass",0.0248889,"Update README.m","c5c5ecf29d3ffdd97f69e42c2c90cace3d2039ef",2022-08-11 03:31:23
+"19","basic case works","runtime (in seconds)","pass",0.0431974,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"20","basic case works","runtime (in seconds)","pass",0.0408719,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"21","basic case works","runtime (in seconds)","pass",0.0416974,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"22","zero length vectors dropped","runtime (in seconds)","pass",0.0443913,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"23","zero length vectors dropped","runtime (in seconds)","pass",0.0412355,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"24","zero length vectors dropped","runtime (in seconds)","pass",0.0422589,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"25","test-join.r","runtime (in seconds)","pass",0.0262473,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"26","test-join.r","runtime (in seconds)","pass",0.024418,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"27","test-join.r","runtime (in seconds)","pass",0.0247743,"Merge branch 'd","4278678f42c23d8f8c3dc2852c99b1eca3b313f9",2022-08-10 15:54:35
+"28","basic case works","runtime (in seconds)","pass",0.0423092,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"29","basic case works","runtime (in seconds)","pass",0.0414819,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"30","basic case works","runtime (in seconds)","pass",0.0425064,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"31","zero length vectors dropped","runtime (in seconds)","pass",0.0417186,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"32","zero length vectors dropped","runtime (in seconds)","pass",0.040484,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"33","zero length vectors dropped","runtime (in seconds)","pass",0.0412097,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"34","test-join.r","runtime (in seconds)","pass",0.0257963,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"35","test-join.r","runtime (in seconds)","pass",0.0246317,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"36","test-join.r","runtime (in seconds)","pass",0.0246727,"update","cc3577d8a95675a7cd5fac8dd5d4b983b5323f09",2022-08-10 15:54:25
+"37","basic case works","runtime (in seconds)","pass",0.0421792,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
+"38","basic case works","runtime (in seconds)","pass",0.0405878,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
+"39","basic case works","runtime (in seconds)","pass",0.0416228,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
+"40","zero length vectors dropped","runtime (in seconds)","pass",0.0418978,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
+"41","zero length vectors dropped","runtime (in seconds)","pass",0.0411,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
+"42","zero length vectors dropped","runtime (in seconds)","pass",0.0414698,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
+"43","test-join.r","runtime (in seconds)","pass",0.0260709,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
+"44","test-join.r","runtime (in seconds)","pass",0.0248084,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
+"45","test-join.r","runtime (in seconds)","pass",0.0246581,"Update README.m","7bfef8808331a8516c2da60ab89974e53a72c28e",2022-08-10 07:30:33
