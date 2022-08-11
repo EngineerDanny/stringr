@@ -1,5 +1,4 @@
 # stringr with named capture regular expressions
-
 This package is an enhanced version of hadley/stringr. The only
 difference is that when you use `str_match_all(text, perl(regex))` or
 `str_match(text, perl(regex))`, the columns for the extracted
